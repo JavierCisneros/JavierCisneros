@@ -1,6 +1,6 @@
 <h1>Hi there, I´m Javier Cisneros👋</h1>
 <h2>I´m a Software Engineer From Mexico</h2>
-<p>I'm a software engineering student at the Centro de Enseñanza Técnica Industrial (CETI), and I'm 2 months away from graduating. I'm inspired by learning and aim to be the best professional I can be. My overarching goal is to continually enhance my skills and knowledge within the field, fostering personal and professional growth.</p>
+<p>Student at the Centro de Enseñanza Técnica Industrial (CETI), and I'm 2 months away from graduating. I'm inspired by learning and aim to be the best professional I can be. My overarching goal is to continually enhance my skills and knowledge within the field, fostering personal and professional growth.</p>
 <p>Reach me at <a href=mailto:“fjca185@gmail.com”>fjca185@gmail.com</a></p>
 
 <div align="center">
