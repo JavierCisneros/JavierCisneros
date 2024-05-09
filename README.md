@@ -1,5 +1,8 @@
 <h1>Hi there, I´m Javier Cisneros👋</h1>
-<h2>A Software Engineer From Mexico</h2>
+<h2>I´m a Software Engineer From Mexico</h2>
+<p>I'm a software engineering student at the Centro de Enseñanza Técnica Industrial (CETI), and I'm 2 months away from graduating. I'm inspired by learning and aim to be the best professional I can be. My overarching goal is to continually enhance my skills and knowledge within the field, fostering personal and professional growth.</p>
+<p>Reach me at <a href=mailto:“fjca185@gmail.com”>fjca185@gmail.com</a></p>
+
 <div align="center">
   <img align="center" src="https://github-readme-stats-delta-wheat.vercel.app/api/top-langs/?username=javiercisneros&layout=donut-vertical&theme=transparent" alt="javiercisneros" />
 </div>
@@ -8,3 +11,13 @@
   <img height="200px" width="380px" src="https://github-readme-stats-delta-wheat.vercel.app/api?username=javiercisneros&show_icons=true&theme=transparent&rank_icon=github" /> 
 <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=javiercisneros&show_icons=true&theme=transparent" />
 <p/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="next.js logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" width="42" alt="android studio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+</div>
