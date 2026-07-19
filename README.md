@@ -13,6 +13,15 @@ I work across the full delivery path: technical discovery, architecture, impleme
 
 [Read the case studies](https://javiercisneros.me/#work)
 
+## Public project
+
+[Tianguiza](https://tianguiza.com) is an independent marketplace project that can be explored publicly. My recent commercial systems are private, so the portfolio case studies provide the useful technical context for that work.
+
+## Education and certification
+
+- B.S. in Software Engineering, Centro de Enseñanza Técnica Industrial (CETI), 2024
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/be3a5594-9c7d-402b-aeda-e10403a388fd/linked_in_profile)
+
 ## Core stack
 
 - **Application:** React, Next.js, TypeScript, Node.js, REST APIs
@@ -29,4 +38,4 @@ I work across the full delivery path: technical discovery, architecture, impleme
 
 I am open to remote full-time and contractor opportunities with international teams.
 
-[Portfolio](https://javiercisneros.me) · [LinkedIn](https://www.linkedin.com/in/javiercisnerosavila) · [Résumé](https://javiercisneros.me/resume) · [Email](mailto:fjca185@gmail.com)
+[Portfolio](https://javiercisneros.me) · [LinkedIn](https://www.linkedin.com/in/javiercisnerosavila) · [Résumé](https://javiercisneros.me/resume) · [Email](mailto:hi@javiercisneros.me)
